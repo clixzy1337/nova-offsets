@@ -1,0 +1,45 @@
+Found FChunkedFixedUObjectArray GObjects at offset 0x5b918b8
+
+Found 'TNameEntryArray GNames' at offset 0x5B8D390
+
+Found FName::AppendString at Offset 0x199C130
+
+Off::UStruct::Children: 0x48
+LogXmpp: Error: libstrophe[15556] xmpp error: Legacy client authentication failed.
+Off::Field::Next: 0x28
+Off::UStruct::SuperStruct: 0x40
+Off::UStruct::Size: 0x50
+Off::UStruct::MinAlignemnts: 0x54
+Off::UClass::CastFlags: 0xB8
+Off::UClass::ClassDefaultObject: 0x100
+Off::UEnum::Names: 0x40
+Off::UFunction::FunctionFlags: 0x98
+
+Off::UFunction::ExecFunction: 0xC0
+
+Off::Property::ElementSize: 0x34
+Off::Property::ArrayDim: 0x30
+Off::Property::Offset_Internal: 0x44
+Off::Property::PropertyFlags: 0x38
+UPropertySize: 0x70
+
+Off::ArrayProperty::Inner: 0x70
+Off::SetProperty::ElementProp: 0x70
+Off::MapProperty::Base: 0x70
+
+Off::InSDK::ULevel::Actors: 0x98
+
+Off::InSDK::UDataTable::RowMap: 0x30
+
+
+PE-Offset: 0x1B4B0D0
+PE-Index: 0x41
+
+GWorld-Offset: 0x5C80950
+
+Off::InSDK::Text::TextSize: 0x18
+Off::InSDK::Text::TextDatOffset: 0x0
+Off::InSDK::Text::InTextDataStringOffset: 0x28
+
+GameName: FortniteGame
+GameVersion: 4.22.0-5046157+++Fortnite+Release-7.40
